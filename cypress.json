@@ -1,3 +1,5 @@
 {
-    "baseUrl":"https://www.office.com",
-"experimentalSessionAndOrigin": true}
+  "baseUrl": "https://www.office.com",
+  "experimentalSessionAndOrigin": true,
+  "chromeWebSecurity": false
+}

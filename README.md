@@ -1,1 +1,4 @@
-# cypress-azure-ad
+```bash
+npm i
+npm test
+```
